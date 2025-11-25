@@ -9,9 +9,11 @@ This repository hosts the laboratory exercises and supporting materials for the 
 ### `sparse_learning_lab/`
 This directory contains the code presented for the **first laboratory session** dedicated to **Linear and deep methods in sparse learning**, and solutions to the exercises.
 You can enjoy the notebook in colab clicking over the badge:
+
 <a target="_blank" href="https://colab.research.google.com/github/SPAICOM/spml-lab/blob/main/sparse_learning_lab/ISTA_LISTA.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 Contents:
 
 - **`ISTA_LISTA.ipynb`** — 
